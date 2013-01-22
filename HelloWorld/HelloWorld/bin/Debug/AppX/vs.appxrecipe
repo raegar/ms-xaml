@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>JAMIETABLET</Machine>
+    <WindowsUser>Jamie</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>A459F58FE90CEC345AB34D4693684E580B714AF93650CA83381EB6BA947D66A7</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>042d03a5-22f8-4b09-a8c9-dae101309acc_1.0.0.0_neutral__92cy3th2bzc58</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>042d03a5-22f8-4b09-a8c9-dae101309acc_92cy3th2bzc58!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>042d03a5-22f8-4b09-a8c9-dae101309acc</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Jamie</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Jamie\Documents\Visual Studio 2012\Projects\ms-xaml\HelloWorld\HelloWorld\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-01-22T21:09:51.761</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Jamie\Documents\Visual Studio 2012\Projects\ms-xaml\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe">
+      <PackagePath>HelloWorld.exe</PackagePath>
+      <Modified>2013-01-22T22:07:33.651</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jamie\Documents\Visual Studio 2012\Projects\ms-xaml\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb">
+      <PackagePath>HelloWorld.pdb</PackagePath>
+      <Modified>2013-01-22T22:07:33.569</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jamie\Documents\Visual Studio 2012\Projects\ms-xaml\HelloWorld\HelloWorld\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T20:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jamie\Documents\Visual Studio 2012\Projects\ms-xaml\HelloWorld\HelloWorld\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T20:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jamie\Documents\Visual Studio 2012\Projects\ms-xaml\HelloWorld\HelloWorld\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T20:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jamie\Documents\Visual Studio 2012\Projects\ms-xaml\HelloWorld\HelloWorld\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T20:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jamie\Documents\Visual Studio 2012\Projects\ms-xaml\HelloWorld\HelloWorld\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+      <Modified>2013-01-22T21:07:41.655</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jamie\Documents\Visual Studio 2012\Projects\ms-xaml\HelloWorld\HelloWorld\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2013-01-22T22:06:35.215</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jamie\Documents\Visual Studio 2012\Projects\ms-xaml\HelloWorld\HelloWorld\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-06-26T16:19:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jamie\Documents\Visual Studio 2012\Projects\ms-xaml\HelloWorld\HelloWorld\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2013-01-22T22:07:27.712</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jamie\Documents\Visual Studio 2012\Projects\ms-xaml\HelloWorld\HelloWorld\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-01-22T21:09:51.307</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>JAMIETABLET</Machine>
+    <WindowsUser>Jamie</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>FF77AD474299F99EE01EBF9AAB0AB4D2EDCC5FAB2CF30C6AED2FC888E31AAA25</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>4f721546-d6ed-48d5-a6ff-72d94ddc5ccc_1.0.0.0_neutral__92cy3th2bzc58</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>4f721546-d6ed-48d5-a6ff-72d94ddc5ccc_92cy3th2bzc58!vstest.executionengine.App</RegisteredUserModeAppID>
+    <RegisteredPackageID>4f721546-d6ed-48d5-a6ff-72d94ddc5ccc</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Jamie</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Jamie\Documents\Visual Studio 2012\Projects\ms-xaml\HelloWorld\UnitTestsHelloWorld\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-01-22T21:09:55.395</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Jamie\Documents\Visual Studio 2012\Projects\ms-xaml\HelloWorld\UnitTestsHelloWorld\bin\Debug\UnitTestsHelloWorld.dll">
+      <PackagePath>UnitTestsHelloWorld.dll</PackagePath>
+      <Modified>2013-01-22T22:07:35.482</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jamie\Documents\Visual Studio 2012\Projects\ms-xaml\HelloWorld\UnitTestsHelloWorld\bin\Debug\UnitTestsHelloWorld.pdb">
+      <PackagePath>UnitTestsHelloWorld.pdb</PackagePath>
+      <Modified>2013-01-22T22:07:35.422</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jamie\Documents\Visual Studio 2012\Projects\ms-xaml\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb">
+      <PackagePath>HelloWorld.pdb</PackagePath>
+      <Modified>2013-01-22T22:07:33.569</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\MSTestFramework\11.0\References\CommonConfiguration\neutral\Microsoft.VisualStudio.TestPlatform.UnitTestFramework.dll">
+      <PackagePath>Microsoft.VisualStudio.TestPlatform.UnitTestFramework.dll</PackagePath>
+      <Modified>2012-11-06T05:43:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jamie\Documents\Visual Studio 2012\Projects\ms-xaml\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe">
+      <PackagePath>HelloWorld.exe</PackagePath>
+      <Modified>2013-01-22T22:07:33.651</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\TestPlatform\11.0\Redist\CommonConfiguration\neutral\Microsoft.VisualStudio.TestPlatform.Core.dll">
+      <PackagePath>Microsoft.VisualStudio.TestPlatform.Core.dll</PackagePath>
+      <Modified>2012-11-06T05:43:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\MSTestFramework\11.0\Redist\CommonConfiguration\neutral\Microsoft.VisualStudio.TestPlatform.Extensions.MSAppContainerAdapter.dll">
+      <PackagePath>Microsoft.VisualStudio.TestPlatform.Extensions.MSAppContainerAdapter.dll</PackagePath>
+      <Modified>2012-11-06T05:43:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\TestPlatform\11.0\Redist\CommonConfiguration\neutral\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll">
+      <PackagePath>Microsoft.VisualStudio.TestPlatform.ObjectModel.dll</PackagePath>
+      <Modified>2012-11-06T05:43:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\TestPlatform\11.0\Redist\CommonConfiguration\neutral\Microsoft.VisualStudio.TestPlatform.TestExecutor.Core.dll">
+      <PackagePath>Microsoft.VisualStudio.TestPlatform.TestExecutor.Core.dll</PackagePath>
+      <Modified>2012-07-26T19:08:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\TestPlatform\11.0\Redist\CommonConfiguration\neutral\Microsoft.VisualStudio.TestPlatform.Utilities.dll">
+      <PackagePath>Microsoft.VisualStudio.TestPlatform.Utilities.dll</PackagePath>
+      <Modified>2012-11-06T05:43:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\TestPlatform\11.0\Redist\CommonConfiguration\neutral\vstest.executionengine.appcontainer.exe">
+      <PackagePath>vstest.executionengine.appcontainer.exe</PackagePath>
+      <Modified>2012-07-26T19:08:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\TestPlatform\11.0\Redist\CommonConfiguration\neutral\vstest.executionengine.appcontainer.x86.exe">
+      <PackagePath>vstest.executionengine.appcontainer.x86.exe</PackagePath>
+      <Modified>2012-07-26T19:08:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jamie\Documents\Visual Studio 2012\Projects\ms-xaml\HelloWorld\UnitTestsHelloWorld\Images\UnitTestLogo.png">
+      <PackagePath>Images\UnitTestLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2011-12-12T13:52:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jamie\Documents\Visual Studio 2012\Projects\ms-xaml\HelloWorld\UnitTestsHelloWorld\Images\UnitTestSmallLogo.png">
+      <PackagePath>Images\UnitTestSmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2011-12-12T13:52:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jamie\Documents\Visual Studio 2012\Projects\ms-xaml\HelloWorld\UnitTestsHelloWorld\Images\UnitTestSplashScreen.png">
+      <PackagePath>Images\UnitTestSplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2011-12-12T13:52:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jamie\Documents\Visual Studio 2012\Projects\ms-xaml\HelloWorld\UnitTestsHelloWorld\Images\UnitTestStoreLogo.png">
+      <PackagePath>Images\UnitTestStoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2011-12-12T13:52:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jamie\Documents\Visual Studio 2012\Projects\ms-xaml\HelloWorld\HelloWorld\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <Modified>2012-03-15T20:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jamie\Documents\Visual Studio 2012\Projects\ms-xaml\HelloWorld\HelloWorld\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <Modified>2012-03-15T20:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jamie\Documents\Visual Studio 2012\Projects\ms-xaml\HelloWorld\HelloWorld\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <Modified>2012-03-15T20:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jamie\Documents\Visual Studio 2012\Projects\ms-xaml\HelloWorld\HelloWorld\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <Modified>2012-03-15T20:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jamie\Documents\Visual Studio 2012\Projects\ms-xaml\HelloWorld\HelloWorld\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+      <Modified>2013-01-22T21:07:41.655</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jamie\Documents\Visual Studio 2012\Projects\ms-xaml\HelloWorld\HelloWorld\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2013-01-22T22:06:35.215</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jamie\Documents\Visual Studio 2012\Projects\ms-xaml\HelloWorld\HelloWorld\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-06-26T16:19:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jamie\Documents\Visual Studio 2012\Projects\ms-xaml\HelloWorld\HelloWorld\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2013-01-22T22:07:27.712</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jamie\Documents\Visual Studio 2012\Projects\ms-xaml\HelloWorld\UnitTestsHelloWorld\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-01-22T21:09:54.963</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

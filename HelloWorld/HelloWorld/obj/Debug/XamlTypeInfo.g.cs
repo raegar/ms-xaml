@@ -112,7 +112,9 @@ namespace HelloWorld.HelloWorld_XamlTypeInfo
             }
         }
 
-        private object Activate_0_MainPage() { return new global::HelloWorld.MainPage(); }
+        private object Activate_0_LayoutAwarePage() { return new global::HelloWorld.Common.LayoutAwarePage(); }
+
+        private object Activate_1_MainPage() { return new global::HelloWorld.MainPage(); }
 
 
         private global::Windows.UI.Xaml.Markup.IXamlType CreateXamlType(string typeName)
@@ -130,9 +132,15 @@ namespace HelloWorld.HelloWorld_XamlTypeInfo
                 xamlType = new global::HelloWorld.HelloWorld_XamlTypeInfo.XamlSystemBaseType(typeName, typeof(global::Windows.UI.Xaml.Controls.UserControl));
                 break;
 
+            case "HelloWorld.Common.LayoutAwarePage":
+                userType = new global::HelloWorld.HelloWorld_XamlTypeInfo.XamlUserType(this, typeName, typeof(global::HelloWorld.Common.LayoutAwarePage), GetXamlTypeByName("Windows.UI.Xaml.Controls.Page"));
+                userType.Activator = Activate_0_LayoutAwarePage;
+                xamlType = userType;
+                break;
+
             case "HelloWorld.MainPage":
-                userType = new global::HelloWorld.HelloWorld_XamlTypeInfo.XamlUserType(this, typeName, typeof(global::HelloWorld.MainPage), GetXamlTypeByName("Windows.UI.Xaml.Controls.Page"));
-                userType.Activator = Activate_0_MainPage;
+                userType = new global::HelloWorld.HelloWorld_XamlTypeInfo.XamlUserType(this, typeName, typeof(global::HelloWorld.MainPage), GetXamlTypeByName("HelloWorld.Common.LayoutAwarePage"));
+                userType.Activator = Activate_1_MainPage;
                 xamlType = userType;
                 break;
 
